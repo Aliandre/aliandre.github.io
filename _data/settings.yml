@@ -10,7 +10,7 @@ menu:
 - {name: 'Youtube - Colas',  url: 'youtube-colas'}
 - {name: 'Video game assets', url: 'video-game-assets'}
 - {name: 'Game development',       url: 'game-dev'}
-- {name: 'Dev',       url: 'dev'}
+#- {name: 'Dev',       url: 'dev'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
