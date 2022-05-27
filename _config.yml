@@ -17,3 +17,6 @@ author:              "Alexandre Trachez"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+site.hide_post_share: true
+site.hide_related_posts: true
