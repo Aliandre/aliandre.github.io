@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Youtube - Colas',  url: 'youtube-colas'}
 - {name: 'Video game assets', url: 'video-game-assets'}
-- {name: 'Game development',       url: 'game-development'}
+- {name: 'Game development',       url: 'game-dev'}
 - {name: 'Dev',       url: 'dev'}
 - {name: 'About',              url: 'about'}
 
