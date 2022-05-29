@@ -7,7 +7,7 @@ tags: [youtube, colas, gaming]
 image: 2022-05-13-colas-propnight.jpg
 ---
 
-Video edit, sound design and animation for a gaming video for [Colas Bim Gaming](https://www.youtube.com/c/COLASBIMGAMING) youtube channel.
+Video edit, sound design and animation for a gaming video for [Colas Bim Gaming](https://www.youtube.com/c/COLASBIMGAMING) Youtube channel.
 
 4 streams to synchronize, work with an animator for the introduction animation. Animation in the video are my own
 

@@ -21,4 +21,4 @@ Personal best of:
 - [Tutorial on color keying](https://www.tiktok.com/@colasbim_/video/7008910079747493126)
 - [Sport motivation](https://www.tiktok.com/@colasbim_/video/7033024254350249222)
 
-Channel has stopped as the focus is now more Youtube than bringing people on Twitch
+Channel has stopped as the focus is now more Youtube than bringing people on Twitch. 138 videos of mostly 1 min were made over 7 months, and the channel reached 280k subscribers when stopped.
