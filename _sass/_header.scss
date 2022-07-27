@@ -19,8 +19,10 @@
 .site-header a {
   text-decoration: none;
 }
+
 .profile-picture-mini {
-  width: 32px;
+  width: 100%;
+  max-width:32px;
   height: 32px;
 }
 .site-title {
