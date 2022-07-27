@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Video game assets
-category: video-game-assets
-permalink: /video-game-assets
+title: Video game marketing
+category: video-game-marketing
+permalink: /video-game-marketing
 ---
