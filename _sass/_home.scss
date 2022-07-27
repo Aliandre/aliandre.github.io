@@ -1,10 +1,16 @@
+#article {
+  display: inline-block;
+}
+
 .featured-post {
-  height: 400px;
+  height: 270px;
+  width: 480px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  display: inline-block;
 }
 .featured-post h2 {
   bottom: 0;
