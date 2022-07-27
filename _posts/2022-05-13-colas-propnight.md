@@ -2,7 +2,7 @@
 layout: post
 title: "Video edit for Colas Bim - Propnight"
 author: "Alexandre Trachez"
-categories: youtube-colas
+categories: youtuber-streamer
 tags: [youtube, colas, gaming]
 image: 2022-05-13-colas-propnight.jpg
 ---

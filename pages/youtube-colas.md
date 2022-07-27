@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Youtube - Colas
-category: youtube-colas
-permalink: /youtube-colas
+title: Youtuber/Streamer
+category: youtuber-streamer
+permalink: /youtuber-streamer
 ---

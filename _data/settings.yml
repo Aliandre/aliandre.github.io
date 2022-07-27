@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Youtube - Colas',  url: 'youtube-colas'}
+- {name: 'Youtuber/Streamer',  url: 'youtuber-streamer'}
 - {name: 'Video game assets', url: 'video-game-assets'}
 - {name: 'Game development',       url: 'game-dev'}
 #- {name: 'Dev',       url: 'dev'}
