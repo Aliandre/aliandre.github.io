@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Video game trailers - Mutants Gensis"
+title: "Video game trailers - Mutants Genesis"
 author: "Alexandre Trachez"
 categories: video-game-marketing
 tags: [youtube, mutants-genesis]
-image: 2022-04-25-mp-chapter1.jpg
+image: 2022-10-01-mutantsGenesis.jpg
 ---
 
 Storyboard, in-editor rush capture, editing and sound design for several marketing videos for Mutants Genesis, a game developed by Celsius Online

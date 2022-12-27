@@ -4,7 +4,7 @@ title: "Video game trailers - Missing Parts"
 author: "Alexandre Trachez"
 categories: video-game-marketing
 tags: [youtube, missing-parts]
-image: 2022-04-25-mp-chapter1.jpg
+image: 2022-04-25-missingParts.jpg
 ---
 
 Storyboard, in-editor rush capture, editing and sound design for several marketing videos for Missing Parts, a game developed by Celsius Online
