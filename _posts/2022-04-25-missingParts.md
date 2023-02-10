@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video game trailers - Missing Parts"
-author: "Alexandre Trachez"
+author: "Aliandre"
 categories: video-game-marketing
 tags: [youtube, missing-parts]
 image: 2022-04-25-missingParts.jpg

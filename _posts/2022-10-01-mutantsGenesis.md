@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video game trailers - Mutants Genesis"
-author: "Alexandre Trachez"
+author: "Aliandre"
 categories: video-game-marketing
 tags: [youtube, mutants-genesis]
 image: 2022-10-01-mutantsGenesis.jpg

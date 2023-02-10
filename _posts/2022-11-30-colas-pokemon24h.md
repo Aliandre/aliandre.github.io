@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video edit for Colas - Pokemon 24h"
-author: "Alexandre Trachez"
+author: "Aliandre"
 categories: youtuber-streamer
 tags: [youtube, colas, drawing]
 image: 2022-11-30-colas-pokemon24h.jpg

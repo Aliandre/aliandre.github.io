@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "Aliandre Propfolio"
   spec.version       = "2.0.1"
-  spec.authors       = ["Alexandre Trachez"]
+  spec.authors       = ["Aliandre"]
   spec.email         = ["alexandretrachezprod@gmail.com"]
 
-  spec.summary       = "Alexandre Trachez's portfolio"
+  spec.summary       = "Aliandre's portfolio"
   spec.homepage      = "https://aliandre.github.io/"
   spec.license       = "MIT"
 

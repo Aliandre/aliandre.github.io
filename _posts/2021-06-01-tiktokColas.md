@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiktok for Colas Bim"
-author: "Alexandre Trachez"
+author: "Aliandre"
 categories: youtuber-streamer
 tags: [youtube, colas, gaming]
 image: 2021-06-01-colas-tiktok.png

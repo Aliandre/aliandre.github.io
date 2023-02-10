@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiktok for HugoJD"
-author: "Alexandre Trachez"
+author: "Aliandre"
 categories: youtuber-streamer
 tags: [youtube, hugojd, gaming]
 image: 2022-07-01-hugo-tiktok.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My own Tiktok channel"
-author: "Alexandre Trachez"
+author: "Aliandre"
 categories: youtuber-streamer
 tags: [youtube, gaming]
 image: 2023-02-08-aliandre-tiktok.png
